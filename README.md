@@ -1,4 +1,4 @@
-# GetX-API
+# GetX-API - Quran eBook
 # Create a new repository:
 
 <br/> echo "# GetX-API" >> README.md
